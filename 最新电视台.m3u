@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV-3
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
@@ -11,13 +15,23 @@ http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="海外",FOXMOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,美国中文电视  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美国中文电视  
 https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1 ,HBO台湾  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HBO台湾  
 http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-#EXTINF:-1 ,Kids TV  
-http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8 
-#EXTINF:-1 tvg-id="-1" tvg-name="ELTA综合300" tvg-logo="https://raw.githubusercontent.com/callmeliujian/tvg-logo/main/tw/elta-zonghe-300.png" group-title="台湾",ELTA综合300
-http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8  
-#EXTINF:-1 tvg-id="-1" tvg-name="ELTA影剧" tvg-logo="https://raw.githubusercontent.com/callmeliujian/tvg-logo/main/tw/elta-yingju.png" group-title="台湾",ELTA影剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Kids TV  
+http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+#EXTINF:-1 tvg-id="7219" tvg-name="爱尔达综合" tvg-logo="https://raw.githubusercontent.com/callmeliujian/tvg-logo/main/tw/elta-zonghe-300.png" group-title="台湾",ELTA综合300
+http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7201" tvg-name="爱尔达影剧" tvg-logo="https://raw.githubusercontent.com/callmeliujian/tvg-logo/main/tw/elta-yingju.png" group-title="台湾",ELTA影剧
 http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="凤凰",凤凰中文
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/callmeliujian/tvg-logo/main/korea/sbs.png" group-title="韩国",SBS
+https://www.navchina.cf/IPTV/sbs.php?id=S01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/callmeliujian/tvg-logo/main/korea/sbs.png" group-title="韩国",SBS国际
+http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",Mnet
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",tvN Asia
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
