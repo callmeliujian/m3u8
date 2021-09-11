@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1[360p]
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV-3
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="卫视",香港卫视
@@ -33,5 +35,7 @@ https://www.navchina.cf/IPTV/sbs.php?id=S01
 http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",Mnet
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",tvN Asia
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",tvN Asia
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
